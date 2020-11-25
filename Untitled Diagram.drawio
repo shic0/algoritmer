@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T09:00:53.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tHBNjJBnWGYNTqPnKIvn" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T09:01:59.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3LoVs8r6UEh_g-Ku7NNX" version="13.10.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1611" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,14 +49,14 @@
         <mxCell id="pvkV0urYHtsUyFwnNjGG-19" value="Nej" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="330" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pvkV0urYHtsUyFwnNjGG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvkV0urYHtsUyFwnNjGG-20" target="pvkV0urYHtsUyFwnNjGG-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvkV0urYHtsUyFwnNjGG-20" target="pvkV0urYHtsUyFwnNjGG-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pvkV0urYHtsUyFwnNjGG-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvkV0urYHtsUyFwnNjGG-20" target="pvkV0urYHtsUyFwnNjGG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-20" value="Är Chrome startat?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="222.5" y="545" width="135" height="80" as="geometry" />
+          <mxGeometry x="222.5" y="550" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-22" value="Ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="410" width="30" height="20" as="geometry" />
@@ -65,13 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-23" value="Öppna Chrome genom att trycka på ikonen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvkV0urYHtsUyFwnNjGG-27" target="pvkV0urYHtsUyFwnNjGG-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-27" value="Skriv in google som adress, tryck på enter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-30" value="Nej" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="355" y="440" width="30" height="20" as="geometry" />
@@ -98,13 +98,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-36" value="&lt;br&gt;Är du uppkopplad till internet?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="430" width="140" height="80" as="geometry" />
+          <mxGeometry x="220" y="440" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvkV0urYHtsUyFwnNjGG-43" target="pvkV0urYHtsUyFwnNjGG-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-43" value="Kolla upp din internet anslutning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-48" value="Nej" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="550" width="30" height="20" as="geometry" />
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-59" value="Sök om på nytt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-50" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pvkV0urYHtsUyFwnNjGG-62" value="Ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="950" width="30" height="20" as="geometry" />
